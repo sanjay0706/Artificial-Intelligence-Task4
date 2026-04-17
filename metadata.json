@@ -1,0 +1,5 @@
+{
+  "name": "VisionTrack AI - Professional Tracking System",
+  "description": "A comprehensive object detection and tracking suite featuring live webcam analysis, video file processing, and detailed detection logging.",
+  "requestFramePermissions": ["camera"]
+}
